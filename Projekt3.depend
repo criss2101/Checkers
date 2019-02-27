@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1527104955 source:/home/krystian/Pulpit/CODE/Projekt3/src/game.cpp
+	"game.h"
+
+1527104356 /home/krystian/Pulpit/CODE/Projekt3/include/game.h
+	"pawn.h"
+	<vector>
+	<iostream>
+
+1526984830 /home/krystian/Pulpit/CODE/Projekt3/include/pawn.h
+
+1527100273 source:/home/krystian/Pulpit/CODE/Projekt3/src/pawn.cpp
+	"pawn.h"
+
+1527108018 source:/home/krystian/Pulpit/CODE/Projekt3/main.cpp
+	<iostream>
+	"pawn.h"
+	"game.h"
+
+1528198445 source:/home/krystian/Dropbox/CODE/Projekt3/main.cpp
+	<iostream>
+	"pawn.h"
+	"game.h"
+	"tree.h"
+
+1528285943 /home/krystian/Dropbox/CODE/Projekt3/include/pawn.h
+
+1528285457 /home/krystian/Dropbox/CODE/Projekt3/include/game.h
+	"pawn.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1528285943 source:/home/krystian/Dropbox/CODE/Projekt3/src/pawn.cpp
+	"pawn.h"
+
+1528287033 source:/home/krystian/Dropbox/CODE/Projekt3/src/game.cpp
+	"game.h"
+
+1528287157 source:/home/krystian/Dropbox/CODE/Projekt3/src/tree.cpp
+	"tree.h"
+	"unistd.h"
+
+1528199898 /home/krystian/Dropbox/CODE/Projekt3/include/tree.h
+	"node.h"
+	"game.h"
+	<vector>
+	"move.h"
+
+1528286765 /home/krystian/Dropbox/CODE/Projekt3/include/node.h
+	<list>
+	"game.h"
+
+1528132253 source:/home/krystian/Dropbox/CODE/Projekt3/src/node.cpp
+	"node.h"
+
+1527985862 /home/krystian/Dropbox/CODE/Projekt3/include/move.h
+
+1527985866 source:/home/krystian/Dropbox/CODE/Projekt3/src/move.cpp
+	"move.h"
+
